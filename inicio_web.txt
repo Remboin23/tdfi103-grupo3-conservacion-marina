@@ -1,0 +1,2 @@
+#"para iniciar la pagina web hay que abrir docker e insertar este codigo en la terminal"
+#"docker compose up -d"
